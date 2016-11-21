@@ -9,7 +9,7 @@ package chapter01;
 public class ConcurrencyTest {
 
     /** 执行次数 */
-    private static final long count = 10000l;
+    private static final long count = 1000l;
 
     public static void main(String[] args) throws InterruptedException {
         //并发计算
